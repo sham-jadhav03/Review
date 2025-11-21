@@ -31,7 +31,6 @@ Corporate analogy:
 Think of it as a data-driven decision-making system for your org — like your CIO with a fact sheet and a rulebook.
 
 ✅ 2. The Wumpus World
-Ah yes, the OG AI playground. AIMA’s classic.
 What is it?
 A grid-based world where:
 There's a Wumpus (monster)
@@ -50,3 +49,6 @@ Grab the gold
 Avoid death
 
 Use logical inference to deduce safe squares
+
+
+Now, we start the basic approach of understanding the Prompt engineering -> HoW AI Understand the Prompt -> How it generates the Token
