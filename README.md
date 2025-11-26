@@ -30,25 +30,4 @@ Acts based on those conclusions
 Corporate analogy:
 Think of it as a data-driven decision-making system for your org — like your CIO with a fact sheet and a rulebook.
 
-✅ 2. The Wumpus World
-What is it?
-A grid-based world where:
-There's a Wumpus (monster)
-Pits (deadly holes)
-Gold
-Breeze indicates pits nearby
-Stench indicates Wumpus nearby
-Why is it important?\
-This world is used to show:
-Logical reasoning
-Inference
-Uncertainty
-Decision-making under risk
-Agent Goals
-Grab the gold
-Avoid death
-
-Use logical inference to deduce safe squares
-
-
 Now, we start the basic approach of understanding the Prompt engineering -> HoW AI Understand the Prompt -> How it generates the Token
