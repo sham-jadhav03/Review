@@ -32,3 +32,5 @@ Think of it as a data-driven decision-making system for your org — like your C
 
 Now, we start the basic approach of understanding the Prompt engineering -> HoW AI Understand the Prompt -> How it generates the Token 
 API -> Understanding of how the GEN AI API works via the token generation across every endpoints 
+
+###LLM & RAG   ->   LLMs (Large Language Models) understand and generate text, but have knowledge cutoffs; RAG (Retrieval-Augmented Generation) enhances LLMs by adding a retrieval step, fetching real-time, external data (from databases, documents) to ground responses in facts, reducing hallucinations, enabling domain-specific answers, and providing citations for accuracy
