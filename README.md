@@ -35,4 +35,7 @@ API -> Understanding of how the GEN AI API works via the token generation across
 
 ###LLM & RAG   ->   LLMs (Large Language Models) understand and generate text, but have knowledge cutoffs; RAG (Retrieval-Augmented Generation) enhances LLMs by adding a retrieval step, fetching real-time, external data (from databases, documents) to ground responses in facts, reducing hallucinations, enabling domain-specific answers, and providing citations for accuracy  
 
-### Move toward the depth of the LLM -> How the LLM model works, understanding the basics, and advanced understanding LLM model, as we make a simple LLM model, which helps us to understand how the basic LLM model is trained via various PYTHON Libraries.  
+### Move toward the depth of the LLM -> How the LLM model works, understanding the basics, and advanced understanding LLM model, as we make a simple LLM model, which helps us to understand how the basic LLM model is trained via various PYTHON Libraries.                                                                                                                     
+### A Retrieval-Augmented Generation (RAG) pipeline
+``` Is an AI framework that enhances the capabilities of large language models (LLMs) by connecting them with external, up-to-date knowledge bases to provide more accurate, context-aware, and factually grounded responses
+```
