@@ -31,11 +31,11 @@ Corporate analogy:
 Think of it as a data-driven decision-making system for your org — like your CIO with a fact sheet and a rulebook.
 
 Now, we start the basic approach of understanding the Prompt engineering -> HoW AI Understand the Prompt -> How it generates the Token 
-API -> Understanding of how the GEN AI API works via the token generation across every endpoints 
+API -> Understanding of how the GEN AI API works via the token generation across all endpoints 
 
-###LLM & RAG   ->   LLMs (Large Language Models) understand and generate text, but have knowledge cutoffs; RAG (Retrieval-Augmented Generation) enhances LLMs by adding a retrieval step, fetching real-time, external data (from databases, documents) to ground responses in facts, reducing hallucinations, enabling domain-specific answers, and providing citations for accuracy  
+###LLM & RAG   ->   LLMs (Large Language Models) understand and generate text, but have knowledge cutoffs; RAG (Retrieval-Augmented Generation) enhances LLMs by adding a retrieval step, fetching real-time, external data (from databases, documents) to ground responses in facts, reducing hallucinations, enabling domain-specific answers, and providing citations for accuracy. How do we give the LLM context so that he always remember the things? We need to understand first the architecture of LLM -< ENCODER-DECODER architecture, which helps to understand the embedding vector of LLM text generation 
 
-### Move toward the depth of the LLM -> How the LLM model works, understanding the basics, and advanced understanding LLM model, as we make a simple LLM model, which helps us to understand how the basic LLM model is trained via various PYTHON Libraries.                                                                                                                     
+### Move toward the depth of the LLM -> How the LLM model works, understanding the basics, and advanced understanding of the LLM model, as we make a simple LLM model, which helps us to understand how the basic LLM model is trained via various PYTHON Libraries.                                                                                                                     
 ### A Retrieval-Augmented Generation (RAG) pipeline
 ``` Is an AI framework that enhances the capabilities of large language models (LLMs) by connecting them with external, up-to-date knowledge bases to provide more accurate, context-aware, and factually grounded responses: Retrieval-Augmented Generation (RAG) is an artificial intelligence (AI) framework that enhances the output of a large language model (LLM) by connecting it to external, authoritative knowledge sources. This allows the LLM to access up-to-date and domain-specific information, improving accuracy and reducing "hallucinations" (fabricating information). 
 ```
