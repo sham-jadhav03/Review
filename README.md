@@ -26,21 +26,21 @@ Based on the AIMA (Artificial Intelligence: A Modern Approach) model, a KBA has 
 
 ---
 
-## 2. Prompt Engineering & Tokenization
-
-To effectively work with modern AI, we must understand:
-*   **Prompt Engineering**: How to structure instructions effectively (TELL, ASK, ACT).
-*   **Token Generation**: How AI processes text into tokens and generates responses.
-*   **API Interaction**: Understanding how Generative AI APIs handle requests and token generation across endpoints.
-
----
-
-## 3. Large Language Models (LLMs) & RAG
+## 2. Large Language Models (LLMs) & RAG
 
 ### LLMs (Large Language Models)
 LLMs understand and generate text based on vast training data. However, they have limitations, such as:
 *   **Knowledge Cutoffs**: They only know information up to their last training date.
 *   **Hallucinations**: They may confidently generate incorrect information.
+
+---
+
+## 3. Prompt Engineering & Tokenization
+
+To effectively work with modern AI, we must understand:
+*   **Prompt Engineering**: How to structure instructions effectively (TELL, ASK, ACT).
+*   **Token Generation**: How AI processes text into tokens and generates responses.
+*   **API Interaction**: Understanding how Generative AI APIs handle requests and token generation across endpoints.
 
 ### Retrieval-Augmented Generation (RAG)
 RAG enhances LLMs by adding a retrieval step. It fetches real-time, external data (from databases or documents) to ground the LLM's responses.
